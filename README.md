@@ -46,6 +46,7 @@
 ├── preprocessing/               
 │   ├── preprocessing.ipynb        # 데이터 전처리 코드
 ├── README.md                      # 프로젝트 설명
+├── 머러_텀프_최종보고서.pdf         # 프로젝트 보고서
 ```
 
 ## 📊 데이터 출처
